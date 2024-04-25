@@ -6,7 +6,7 @@ This is a web application built using Streamlit that detects whether a given new
 
 - Input a news article text and get instant predictions on its authenticity.
 - Simple and intuitive user interface built with Streamlit.
-- Utilizes a pre-trained machine learning model for accurate predictions.
+- Utilizes a NLP models (word2vec and RNNS)  for accurate predictions.
 
 ## Installation
 
